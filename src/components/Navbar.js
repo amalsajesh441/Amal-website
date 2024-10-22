@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
-import amalLogo from "/home/amaldev/Protfolio/Amal-website/src/Assets/Amal_logo.png";
+import amalLogo from "../Assets/Amal_logo.png";
 import { Link } from "react-router-dom";
 import {
   AiOutlineHome,
